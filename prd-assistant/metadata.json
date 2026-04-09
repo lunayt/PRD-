@@ -1,0 +1,5 @@
+{
+  "name": "PRD产品小助手",
+  "description": "A product intelligence workspace for generating PRDs and ASCII prototypes.",
+  "requestFramePermissions": []
+}
